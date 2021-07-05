@@ -36,6 +36,8 @@ h2{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 .dream-big{
@@ -78,4 +80,29 @@ h2{
 }
 footer p{
     text-align: center;
+}
+
+/* Service Section*/
+.ser-h1{
+    font-size: 30px;
+    margin-top: 1px;
+}
+.top-banner2{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    padding-left: 50px;
+}
+.secend-class{
+    color:cyan
+}
+.third-class{
+    color:chartreuse
+}
+.book-btn{
+    width: 90px;
+    background-image: linear-gradient(rgb(187, 255, 0), rgb(77, 255, 71));
+    text-decoration: none;
+    padding: 10px 40px;
+    color: wheat;
+    font-weight: 700;
 }
